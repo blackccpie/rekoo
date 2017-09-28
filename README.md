@@ -1,2 +1,2 @@
 # rekoo
-Playing around with DeepBeliefSDK on the Raspberry Pi
+Playing around with the [DeepBeliefSDK](https://github.com/jetpacapp/DeepBeliefSDK) on the Raspberry Pi
